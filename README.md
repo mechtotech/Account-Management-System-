@@ -1,4 +1,4 @@
-PROJECT IMPLEMENTATION:
+
 
 ➢	In the program, the concept of Inheritance is used between classes. The base account
 (Account) is linked with the derived classes (Account_Bank & Account_Stock) through the balancecash variable. In order to implement this method, the balancecash variable is declared as a protected member.
